@@ -1,0 +1,15 @@
+重定向
+
+测试重定向输入，将终端中的 < 后的文件作为参数赋值给py代码中sys.stdin <_io.TextIOWrapper name='<stdin>' mode='r' encoding='UTF-8'> <class '_io.TextIOWrapper'>
+测试重定向输出，程序运行时 print 方法打印到终端的内容重定向(>)到文件 test.txt 中
+
+
+-ssakdlfk
+-sdkfkjaslkf
+
+
+-asdflkjaskdlf
+
+-sadfasdf
+
+-sadfasd
